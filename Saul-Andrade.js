@@ -25,7 +25,7 @@ class Student
     
 } 
 
-let studentA = new Student('Saul','Andrade', '123456789');
+let studentA = new Student('Saul','Andrade', '887756385');
 studentA.printFullName();
 let lastTwoDigits = studentA.getStudentNumberLastTwoDigits();
 console.log("Student's last two digits is " + lastTwoDigits);
